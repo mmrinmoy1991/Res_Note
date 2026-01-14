@@ -25,8 +25,9 @@ HEI Webinar on **_Assessment of Changes in Air Quality in Indian Cities Since th
 1.  What were and are the challenges of NCAP and how can it be improved ?
 	* 
 2.  What should be included in NCAP 2.0 (Vision)?
-
+	* Micro and Macro Targets
+		* Compliance map
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjYxNTI2NDEsMTEyNDk3NTA4LC0xOT
-M3MTYyMzAzLC0xNDQyNzA5ODYyLDQ1ODUyMzE0M119
+eyJoaXN0b3J5IjpbMTY2MTcwNjI4MywxMTI0OTc1MDgsLTE5Mz
+cxNjIzMDMsLTE0NDI3MDk4NjIsNDU4NTIzMTQzXX0=
 -->
