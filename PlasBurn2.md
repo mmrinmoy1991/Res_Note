@@ -19,10 +19,14 @@ HEI Webinar on **_Assessment of Changes in Air Quality in Indian Cities Since th
 - NCAP program target 20-30% reduction from baseline set at 2017
 - Sep 2022 : PM10 reduction 40% national standard by 2025-26
 - INR 13000 crore spent over 130 cities
--  
 
+
+
+1.  What were and are the challenges of NCAP and how can it be improved ?
+	* 
+2.  What should be included in NCAP 2.0 (Vision)?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNDk3NTA4LC0xOTM3MTYyMzAzLC0xND
-QyNzA5ODYyLDQ1ODUyMzE0M119
+eyJoaXN0b3J5IjpbLTE0NjYxNTI2NDEsMTEyNDk3NTA4LC0xOT
+M3MTYyMzAzLC0xNDQyNzA5ODYyLDQ1ODUyMzE0M119
 -->
