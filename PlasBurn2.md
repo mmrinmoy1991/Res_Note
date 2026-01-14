@@ -26,8 +26,9 @@ HEI Webinar on **_Assessment of Changes in Air Quality in Indian Cities Since th
 	* 
 2.  What should be included in NCAP 2.0 (Vision)?
 	* Micro and Macro Targets
-		* Compliance map
+		* Compliance target - industry, commercial, market
+		* Strict enforcement -- bylaws, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MTcwNjI4MywxMTI0OTc1MDgsLTE5Mz
+eyJoaXN0b3J5IjpbLTIyNjM4OTE1NiwxMTI0OTc1MDgsLTE5Mz
 cxNjIzMDMsLTE0NDI3MDk4NjIsNDU4NTIzMTQzXX0=
 -->
